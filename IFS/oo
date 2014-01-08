@@ -1,0 +1,1 @@
+cat a | read -n1 LL && echo a
